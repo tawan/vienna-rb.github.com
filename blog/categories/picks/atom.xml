@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2016-02-04T18:26:23+01:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/02/03/picks/"/>
+    <updated>2016-02-03T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/02/03/picks</id>
+    <content type="html"><![CDATA[<h3>02/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://www.getlektor.com/">Lektor</a> - From Carinthia with love: a new static CMS created by <a href="https://twitter.com/mitsuhiko">Armin Ronacher</a></li>
+<li><a href="https://opensource.com/resources/getting-started-open-source">Getting started in Open Source</a> - A list of articles, tutorials and resources</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://thecodelesscode.com/case/220">The Two Hard Things</a></li>
+<li><a href="http://jonathansacramento.com/posts/20160122-improve-postgresql-workflow-vim-dbext.html">Improve your PostgreSQL workflow with vim and dbext</a> - You got <code>psql</code> in my Vim.</li>
+<li><a href="http://danluu.com/teach-debugging/">Why don&rsquo;t schools teach debugging?</a> - It&rsquo;s a fundamental skill, but there are no classes for it.</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://staystatic.github.io">Stay Static Showcase</a> - Inspired by TodoMVC Showcase; Same Sample Site Built w/ Jekyll, Middleman (Yes!), Hugo and others</li>
+<li><a href="http://twitter.com/statictimes">Static Times</a> - We live in static times! Follow along - the latest news (incl. static site spotlights) about Jekyll, Middleman and friends</li>
+<li><a href="http://viennahtml.github.io">Vienna.html 2nd Meetup - Tu Feb/23rd</a> - Join us @ sektor5. Free. Everyone welcome. Short talks about Building Page Layouts with Susy Grid by Bernhard Benke; Using Markdown (HTML “Shortcodes” in Plain Vanilla Text) with the kramdown Library and Tools by Thomas Leitner and (much) more</li>
+<li><a href="https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0">GitHub Pages now faster and simpler with Jekyll 3.0</a> - Yay!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/01/27/picks/"/>
+    <updated>2016-01-27T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/01/27/picks</id>
+    <content type="html"><![CDATA[<h3>01/27 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/samshadwell/TrumpScript">TrumpScript</a> - It&rsquo;s not Ruby but it&rsquo;s still too great not to share.</li>
+<li><a href="http://hanamirb.org/blog/2016/01/22/lotus-is-now-hanami.html">Lotus is now Hanami</a> - Lotus has recently been renamed; read all about it in this blog post.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="https://www.npmjs.com/package/nativefier">Nativefier</a> - Run web apps as if they were native! Runs on Electron.</li>
+<li><a href="https://github.com/motion-kit/motion-kit">RubyMotion: MotionKit</a> - Really helpful DSL for setting up view layouts. No need for Interface Builder files!</li>
+<li><a href="https://css-tricks.com/print-magazine-layouts-converted-to-web-layouts/">Influencing Web Layouts with Print Layouts</a> - I found this an interesting read on using more magazine-styled layouts.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://beero.ps/2015/01/22/on-ergonomics/">On Ergonomics</a> - Why an ergonomic working place is important (unless you like constant pain)</li>
+<li><a href="https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46#.jf5hh4ccp">Conceptual Debt is Worse than Technical Debt</a> - Yes, there&rsquo;s something even worse than technical debt out there.</li>
+<li><a href="https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture">How to trick a neural network into thinking a panda is a vulture</a> - Neural networks can do amazing things, but they can be tricked into seeing things that aren&rsquo;t quite what they seem.</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="http://bikeshed.fm/48">The Bike Shed 48: &ldquo;Is Everyone Trying Their Best?&rdquo;</a> - Software is broken - Derek and Sean on why it&rsquo;s not fun to be one of the developers who just don&rsquo;t care.</li>
+<li><a href="https://medium.com/@heidar/switching-from-rbenv-to-postmodern-s-ruby-install-and-chruby-f0daa24b36e6#.kejq2isop">Switching from rbenv to postmodern’s ruby-install and chruby</a> - Remind the unix philosophy and ditch rbenv (or rvm) for something more lightweight.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/01/20/picks/"/>
+    <updated>2016-01-20T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/01/20/picks</id>
+    <content type="html"><![CDATA[<h3>01/20 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.bestprogramminglanguagefor.me/">What is the best programming language for me?</a> - a small and fun questionnaire to find out which programming language is the right one for you</li>
+<li><a href="https://github.com/josephmisiti/awesome-machine-learning">Awesome machine learning</a> - A curated list of great machine learning frameworks, libraries, etc.. in different languages. Ruby is in there, too!</li>
+<li><a href="http://blog.aurynn.com/86/contempt-culture">Contempt Culture</a> - A short article worth reading.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="http://6ftdan.com/allyourdev/2016/01/13/101-ruby-code-factoids/?utm_source=rubyweekly&amp;utm_medium=email">101 Ruby Code Factoids</a> - Super neat bite-sized tips and tricks. This counts as 101 picks!</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://d3dvortex.blogspot.in/2005/07/programming-advice-from-john-carmack-i.html">Programming advice from John Carmack</a> - John Carmack provides adivce and thoughts for beginning programmers. Actually, his advice is pretty good for anyone wanting to learn something new related to programming.</li>
+<li><a href="http://rorbservations.com/post/136816741674/rubys-unless-x-is-processed-differently">Ruby’s “unless X” is processed differently than “if !X”!</a></li>
+<li><a href="http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/">Postgres 9.5 - the Feature Rundown</a> - PostgreSQL 9.5 was released almost two weeks ago, and Craig Kerstiens provides a great rundown of all the new features. Personally, I&rsquo;m really hyped about having Upsert.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/laurisbernhart">Lauris</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/">7 ways to decompose fat activerecord models</a> - nice intro into object oriented rails programming</li>
+<li><a href="http://multithreaded.stitchfix.com/blog/2015/06/02/anatomy-of-service-objects-in-rails/">anatomy of a rails service object</a> - my favourite article on service objects</li>
+<li><a href="https://robots.thoughtbot.com/activemodel-form-objects">activemodel form objects</a> - basic idea of form objects</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/01/13/picks/"/>
+    <updated>2016-01-13T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/01/13/picks</id>
+    <content type="html"><![CDATA[<h3>01/13 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://devchat.tv/ruby-rogues/241-rr-what-makes-a-great-developer-with-phil-spitler">Ruby Rogues 241</a> - The latest Ruby Rogues episode is about What Makes a Great Developer, and is absolutely worth listening to.</li>
+<li><a href="https://medium.com/the-coffeelicious/how-to-honor-aaron-swartz-33a2ae09598a#.kfi65lijv">How to honor Aaron Swartz</a> - It&rsquo;s been 2 years since Swartz&#8217; suicide, and Ben Wikler wrote a post about how to make sure that the cause he fought and died for didn&rsquo;t die with him. It&rsquo;s a really sad but interesting read that makes you reconsider what you do every day, and how to improve your life to make a difference in the world.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="https://selfcontrolapp.com/">(OS X) Self Control</a> - Block your access to websites that distract you</li>
+<li><a href="http://flukeout.github.io/">CSS Diner</a> - Fun way to learn CSS selectors!</li>
+<li><a href="https://devmynd.com/blog/2015-1-pairing-with-junior-developers/">Pairing With Junior Developers</a></li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://codahale.com/how-to-safely-store-a-password/">How To Safely Store A Password</a> - Spoiler: use <code>bcrypt</code>. Read on for details.</li>
+<li><a href="http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/">Postgres 9.5 - the Feature Rundown</a> - 9.5 was released last week, and here&rsquo;s what&rsquo;s new.</li>
+<li><a href="http://arstechnica.com/business/2016/01/ipv6-celebrates-its-20th-birthday-by-reaching-10-percent-deployment/">IPv6 celebrates its 20th birthday by reaching 10 percent deployment</a> - 10% might not sound impressive, until you realize what was involved in getting there.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://locomotive.works/">Locomotive CMS hits 3.0</a> - Locomotive CMS is my favorite CMS (besides Comfortable Mexican Sofa) and it just hit a long awaited 3.0 this week.</li>
+<li><a href="https://github.com/comfy/comfortable-mexican-sofa">Comfortable Mexican Sofa</a> - Since I mentioned it above, I&rsquo;ve gotta share this great, plug-in Rails Engine CMS.</li>
+<li><a href="http://trailblazer.to/">Trailblazer</a> - Trailblazer is a Rails and other system friendly architecture. It&rsquo;s maybe what Rails would look like if software design was up higher on its list of goals. I&rsquo;m reading the book and I&rsquo;m super into it. I&rsquo;ve started converting some projects over, and using the concepts in other projects.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/">Defensive BASH Programming</a> - Will make you go refactor all your .sh scripts&hellip;</li>
+<li><a href="http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/">Building a Slackbot with Ruby and Sinatra</a> - Build a tiny Slackbot in 5 minutes.</li>
+<li><a href="https://changelog.com/189/">Changelog #189: JSON API with Yehuda Katz</a> - Listen to Yehuda share some thoughts on <em>extracting standards</em> and <em>enabling people</em>.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/01/06/picks/"/>
+    <updated>2016-01-06T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/01/06/picks</id>
+    <content type="html"><![CDATA[<h3>01/06 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fortieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://blog.honeybadger.io/ruby-guide-environment-variables/">The Rubyist&rsquo;s guide to environment variables</a> - How environment variables really work</li>
+<li><a href="http://2016.bathruby.uk/">Bath Ruby</a> - The last batch of Bath Ruby tickets is on sale. Get them while they&rsquo;re hot! (Also, they might be sold out soon)</li>
+<li><a href="http://lesscode.is/">lesscode</a> - The main ideas behind the less code movement</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://www.craigkerstiens.com/2015/12/29/my-postgres-top-10-for-2016/">Craig Kerstiens&#8217; Top 10 Postgres Features and Tips for 2016</a></li>
+<li><a href="http://bost.ocks.org/mike/algorithms/">Visualizing Algorithms</a> - Not just visualized, but also a discussion of different ways to visualize an algorithm.</li>
+<li><a href="http://idlewords.com/talks/website_obesity.htm">The Website Obesity Crisis</a> - On the phenomenon of mostly-text websites that keep growing in size each year.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
